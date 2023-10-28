@@ -1,3 +1,15 @@
+<details>
+  <summary>Builded Project (Images)</summary>
+  
+  # How it looks like:
+  ![Outside](https://github.com/hubert14/Ardu-KeyBox/github/outside.jpg)
+
+  # How the buttons looks like inside:
+  ![Inside](https://github.com/hubert14/Ardu-KeyBox/github/inside.jpg)
+  
+</details>
+
+
 # Install
 This project doesn`t have the libraries included in the project. 
 Need to install it by yourself.
@@ -8,10 +20,10 @@ Need to install it by yourself.
 
 ### How to install libraries
 - Joystick:
- - Download zip archive with code (from repository)
- - In the Arduino IDE, select `Sketch` > `Include Library` > `Add .ZIP Library`
+  - Download zip archive with code (from repository)
+  - In the Arduino IDE, select `Sketch` > `Include Library` > `Add .ZIP Library`
 - EncButton:
- - Download it from the Library Manager inside the Arduino IDE `Tools` > `Manage Libraries` or `CTRL+SHIFT+I`
+  - Download it from the Library Manager inside the Arduino IDE `Tools` > `Manage Libraries` or `CTRL+SHIFT+I`
 
 
 # Schema
@@ -28,7 +40,7 @@ Need to install it by yourself.
 | **DT**   | D8   |
 | **SW**  | D10 |
 
-#####Right encoder
+##### Right encoder
 
 | Pin  | Pin   |
 | ---- | ----  |
@@ -40,7 +52,7 @@ Need to install it by yourself.
 `A0`, `A1`
 
 # Renaming device
-###### (works only on Arduino IDE 1.x)
+**(works only on Arduino IDE 1.x)**
 
 1. Open Arduino IDE folder (i.e. `C:\Program Files (x86)\Arduino`)
 2. Open `hardware\arduino\avr` folder
