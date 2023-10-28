@@ -1,11 +1,13 @@
 <details>
   <summary>Builded Project (Images)</summary>
   
-  # How it looks like:
-  ![Outside](https://github.com/hubert14/Ardu-KeyBox/github/outside.jpg)
+  #### How it looks like:
+  ![Outside](https://github.com/hubert14/Ardu-KeyBox/assets/22149212/ba092fd8-0413-49fc-b991-e591e4928a84)
 
-  # How the buttons looks like inside:
-  ![Inside](https://github.com/hubert14/Ardu-KeyBox/github/inside.jpg)
+  #### How the buttons looks like inside:
+  ![Inside](https://github.com/hubert14/Ardu-KeyBox/assets/22149212/a949ba6a-e300-472c-9ab0-3485a0e1858a)
+
+
   
 </details>
 
